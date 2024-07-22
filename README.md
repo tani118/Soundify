@@ -1,2 +1,2 @@
 # Soundify
-Music player using C++ Data structures and Algorithms. (UI Using Qt) 
+A Terminal music player using C++ Data structures and Algorithms.
